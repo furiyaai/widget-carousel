@@ -1,26 +1,4 @@
 // init demo
-$(function(){
-  $('#biruTabs').biruTabs({
-    share:true,
-    share_link: {
-      "link_one":"https://facebook.com/nakome",
-      "link_two":"https://twitter.com/nakome",
-      "link_three":"http://codepen.com/nakome",
-      "link_four":"http://instagram.com/nakome"
-    },
-    share_text: {
-      "link_one":"<small>Facebook</small>",
-      "link_two":"<small>Twitter</small>",
-      "link_three":"<small>Codepen</small>",
-      "link_four":"<small>Instagram</small>"
-    }
-  });
-  
-  $('#biruTabs2').biruTabs({delay:2000});
-});
-
-
-
 
 /*
 * 
