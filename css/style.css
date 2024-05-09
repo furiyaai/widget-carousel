@@ -2,7 +2,7 @@
 /*  = Demo only
 ---------------------------*/ 
 /* - @import url(https://fonts.googleapis.com/css?family=Lato|Lobster); - */
-body{background: #c0392b;width:450px;margin: 2px auto;}html,body,.btn,h2,h3,h4{font-family:'Lato', sans-serif;}h1{color:#ECF0F1;font-family:'Lobster', cursive;text-shadow:0 3px 3px #1ABC9C,0 6px 5px #2C3E50;position:relative;}h1:before{content:"B";position:absolute;top:0;left:0;color:#4DCEB4;margin:0 auto;text-align:center;}.btn{display:block;background:#16a085;color:#ECF0F1;width:100%;outline:none;border:none;padding:0.5em 1em;cursor:pointer;font-size:1em;}.row-r{letter-spacing:-0.2em;*letter-spacing:normal;word-spacing:-0.1em;}.box{display:inline-block;zoom:1;*display:inline;letter-spacing:normal;word-spacing:normal;vertical-align:top;text-rendering:auto;}.box{width:100%;}.full{display:block;width:97%;margin-bottom:0.1em;padding:0.3em;}
+body{background: #f4f7ac99;width:450px;margin: 2px auto;}html,body,.btn,h2,h3,h4{font-family:'Lato', sans-serif;}h1{color:#ECF0F1;font-family:'Lobster', cursive;text-shadow:0 3px 3px #1ABC9C,0 6px 5px #2C3E50;position:relative;}h1:before{content:"B";position:absolute;top:0;left:0;color:#4DCEB4;margin:0 auto;text-align:center;}.btn{display:block;background:#16a085;color:#ECF0F1;width:100%;outline:none;border:none;padding:0.5em 1em;cursor:pointer;font-size:1em;}.row-r{letter-spacing:-0.2em;*letter-spacing:normal;word-spacing:-0.1em;}.box{display:inline-block;zoom:1;*display:inline;letter-spacing:normal;word-spacing:normal;vertical-align:top;text-rendering:auto;}.box{width:100%;}.full{display:block;width:97%;margin-bottom:0.1em;padding:0.3em;}
 
 
 
