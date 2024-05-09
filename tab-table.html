@@ -1,0 +1,72 @@
+<ul class="tabs">
+  <li><a href="#one">1</a></li>
+  <li><a href="#two">2</a></li>
+  <li><a href="#three">3</a></li>
+  <li><a href="#four">4</a></li>
+  <li><a href="#five">5</a></li>
+</ul>
+<div class="tabs-content">
+<ul>
+  <li id="one">
+    <div>Содержимое 1-й вкладки</div>
+  </li>
+  <li id="two">
+    <div>Содержимое 2-й вкладки</div>
+  </li>
+  <li id="three">
+    <div>Содержимое 3-й вкладки</div>
+  </li>
+  <li id="four">
+    <div>Содержимое 4-й вкладки</div>
+  </li>
+  <li id="five">
+    <div>Содержимое 5-й вкладки</div>
+  </li>
+</ul>
+</div>
+
+<style>
+
+  body {
+  font: 12px/16px Arial;
+}
+ul, li {
+  padding: 0;
+  margin: 0;
+}
+.tabs {
+  margin-bottom: 20px;
+}
+.tabs li {
+  display: inline-block;
+  background-color: #333;  
+}
+.tabs li a {
+  color: #fff;
+  text-decoration: none;
+  display: inline-block;
+  padding: 0 10px;
+  height: 30px;
+  line-height: 30px;
+}
+.tabs-content {
+  width:640px;
+  height:100px;
+  overflow:hidden;
+}
+.tabs-content ul {
+  list-style: none;
+  height: 120px;
+  overflow: scroll;
+  overflow-y: hidden;
+}
+.tabs-content ul li {
+  width:638px;
+  height:98px;
+  border: 1px dashed red;
+}
+.tabs-content ul li div {
+  padding: 20px;
+}
+
+</style>
