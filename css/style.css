@@ -94,7 +94,7 @@ body{background: #dedfc399;width:400px;margin: 2px auto;}html,body,.btn,h2,h3,h4
   display: inline-block;
   line-height: 1.5em;
   z-index: 1000;
-  padding: 0.5em 1em;
+  padding: 0.2em 0.2em;
   font-size: 1em;
   cursor: pointer;  
 }
