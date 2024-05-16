@@ -1,10 +1,13 @@
-.wc{
+.DIVEcenter{
     position: fixed; /* or absolute */
     left: 50%;
     width: 400px;
     height: 100%;
     margin: -50px 0 0 -100px;
     background: #f0f0f0;
+
+.wc{
+    width: 400px;
 }
 
 .txt2{
