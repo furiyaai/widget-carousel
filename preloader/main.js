@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
 
-    const mediaFiles = document.querySelectorAll('img, video');
+    const mediaFiles = document.querySelectorAll('img, video, css, js');
     let i = 0
 
     Array.from(mediaFiles).forEach((file, index) => {
